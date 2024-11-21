@@ -1,5 +1,5 @@
 
-import logo from "/src/assets/Images/logo (1).svg";
+import logo from "../assets/Images/logo (1).svg";
 import "/src/App.css";
 import { Link } from "react-router-dom";
 import { useGameContext } from "../components/GameContext";
