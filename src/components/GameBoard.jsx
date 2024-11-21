@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import logo from "../assets/images/logo (1).svg";
-import restartIcon from "/src/assets/Images/icon-restart.svg";
+import restartIcon from "/src/assets/images/icon-restart.svg";
 import "../app.css";
 import { useGameContext } from "./GameContext";
 import xIcon from "/src/assets/images/icon-x.svg";
